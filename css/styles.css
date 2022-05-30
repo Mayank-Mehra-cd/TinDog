@@ -73,10 +73,12 @@ margin:5% 3% 5% 0;
 }
 /* Testomonials Section */
 #testimonials{
-  padding: 7% 15%;
   text-align: center;
   background-color: #ef8172;
   color:#fff;
+}
+.carousel-item{
+padding: 7% 15%;
 }
 .t-img{
   width:10%;
